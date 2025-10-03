@@ -22,3 +22,16 @@ E:\c#\CSharpProject\bin\Debug\net9.0\CSharpProject.deps.json
 E:\c#\CSharpProject\bin\Debug\net9.0\CSharpProject.dll
 E:\c#\CSharpProject\bin\Debug\net9.0\CSharpProject.pdb
 E:\c#\CSharpProject\obj\Debug\net9.0\ref\CSharpProject.dll
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\CSharpProject.csproj.AssemblyReference.cache
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\CSharpProject.AssemblyInfoInputs.cache
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\CSharpProject.AssemblyInfo.cs
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\CSharpProject.csproj.CoreCompileInputs.cache
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\CSharpProject.sourcelink.json
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\CSharpProject.dll
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\refint\CSharpProject.dll
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\CSharpProject.pdb
+E:\c#\New folder\CSharpProject\bin\Debug\net9.0\CSharpProject.deps.json
+E:\c#\New folder\CSharpProject\bin\Debug\net9.0\CSharpProject.dll
+E:\c#\New folder\CSharpProject\bin\Debug\net9.0\CSharpProject.pdb
+E:\c#\New folder\CSharpProject\obj\Debug\net9.0\ref\CSharpProject.dll

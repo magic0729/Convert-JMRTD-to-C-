@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#\\CSharpProject\\CSharpProject.csproj": {}
+    "E:\\c#\\New folder\\CSharpProject\\CSharpProject.csproj": {}
   },
   "projects": {
-    "E:\\c#\\CSharpProject\\CSharpProject.csproj": {
+    "E:\\c#\\New folder\\CSharpProject\\CSharpProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#\\CSharpProject\\CSharpProject.csproj",
+        "projectUniqueName": "E:\\c#\\New folder\\CSharpProject\\CSharpProject.csproj",
         "projectName": "CSharpProject",
-        "projectPath": "E:\\c#\\CSharpProject\\CSharpProject.csproj",
+        "projectPath": "E:\\c#\\New folder\\CSharpProject\\CSharpProject.csproj",
         "packagesPath": "C:\\Users\\kok\\.nuget\\packages\\",
-        "outputPath": "E:\\c#\\CSharpProject\\obj\\",
+        "outputPath": "E:\\c#\\New folder\\CSharpProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,18 @@
             "PCSC": {
               "target": "Package",
               "version": "[7.0.1, )"
+            },
+            "PCSC.Iso7816": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "System.Formats.Asn1": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.Security.Cryptography.Pkcs": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
